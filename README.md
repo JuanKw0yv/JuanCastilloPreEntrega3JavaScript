@@ -1,0 +1,1 @@
+El proyecto consiste en una pagina de venta de componentes de computadoras, hay varias cosas comentadas para acordarme de que es cada cosa pero en el proyecto final se van a eliminar, seguramente hay cosas que arreglar, los json que estan ahi no estan conectados porq todavia no mostraron como, en cambio hay arrays de objetos para usarlos como ejemplo de como van a ir quedando.
