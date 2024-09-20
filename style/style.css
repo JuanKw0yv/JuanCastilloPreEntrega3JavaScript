@@ -1,0 +1,164 @@
+/* Estilos básicos para el cuerpo */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f2f5;
+    color: #333;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: row;
+}
+
+/* Contenedor principal */
+.container {
+    flex: 1;
+    margin: 30px;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+/* Sección de búsqueda */
+#busqueda {
+    width: 25%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    margin-right: 20px;
+}
+
+/* Estilo para el formulario */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+/* Etiquetas y selects */
+label {
+    font-weight: 500;
+    margin-bottom: 5px;
+    font-size: 1.1rem;
+}
+
+select {
+    padding: 12px;
+    border-radius: 6px;
+    border: 1px solid #dcdcdc;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+    font-size: 1rem;
+}
+
+/* Estilo para el botón */
+.btn {
+    padding: 12px 20px;
+    border: none;
+    border-radius: 6px;
+    background-color: #007BFF;
+    color: #ffffff;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.btn:active {
+    transform: scale(0.98);
+}
+
+/* Estilo para el contenedor de resultados */
+.resultado {
+    flex: 2;
+}
+
+.resultado h2 {
+    color: #007BFF;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.resultado p {
+    margin: 10px 0;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 1rem;
+}
+
+/* Estilo para el carrito */
+.carrito {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    width: 300px;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+}
+
+.carrito h2 {
+    color: #007BFF;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.carrito ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.carrito li {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 1rem;
+}
+
+/* Estilos para los resultados con imágenes */
+.resultado-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.resultado-img {
+    width: 100px;
+    height: auto;
+    margin-right: 20px;
+}
+
+.resultado-item p {
+    margin: 0;
+    font-size: 16px;
+}
+
+.resultado-item button {
+    padding: 10px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.resultado-item button:hover {
+    background-color: #45a049;
+}

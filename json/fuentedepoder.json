@@ -1,0 +1,128 @@
+[
+    {
+        "modelo": "Corsair RM550x",
+        "marca": "Corsair",
+        "potencia": 550,
+        "certificacion": "80 Plus Gold",
+        "precio": 90
+    },
+    {
+        "modelo": "EVGA SuperNOVA 650 G5",
+        "marca": "EVGA",
+        "potencia": 650,
+        "certificacion": "80 Plus Gold",
+        "precio": 120
+    },
+    {
+        "modelo": "Seasonic Focus GX-750",
+        "marca": "Seasonic",
+        "potencia": 750,
+        "certificacion": "80 Plus Gold",
+        "precio": 130
+    },
+    {
+        "modelo": "Corsair RM850x",
+        "marca": "Corsair",
+        "potencia": 850,
+        "certificacion": "80 Plus Gold",
+        "precio": 140
+    },
+    {
+        "modelo": "Cooler Master V850",
+        "marca": "Cooler Master",
+        "potencia": 850,
+        "certificacion": "80 Plus Gold",
+        "precio": 150
+    },
+    {
+        "modelo": "Thermaltake Toughpower GF1 650W",
+        "marca": "Thermaltake",
+        "potencia": 650,
+        "certificacion": "80 Plus Gold",
+        "precio": 110
+    },
+    {
+        "modelo": "ASUS ROG Strix 750W",
+        "marca": "ASUS",
+        "potencia": 750,
+        "certificacion": "80 Plus Gold",
+        "precio": 135
+    },
+    {
+        "modelo": "NZXT C850",
+        "marca": "NZXT",
+        "potencia": 850,
+        "certificacion": "80 Plus Gold",
+        "precio": 140
+    },
+    {
+        "modelo": "be quiet! Straight Power 11 850W",
+        "marca": "be quiet!",
+        "potencia": 850,
+        "certificacion": "80 Plus Platinum",
+        "precio": 160
+    },
+    {
+        "modelo": "Corsair AX1000",
+        "marca": "Corsair",
+        "potencia": 1000,
+        "certificacion": "80 Plus Titanium",
+        "precio": 280
+    },
+    {
+        "modelo": "EVGA SuperNOVA 1000 T2",
+        "marca": "EVGA",
+        "potencia": 1000,
+        "certificacion": "80 Plus Titanium",
+        "precio": 300
+    },
+    {
+        "modelo": "Seasonic Prime TX-850",
+        "marca": "Seasonic",
+        "potencia": 850,
+        "certificacion": "80 Plus Titanium",
+        "precio": 250
+    },
+    {
+        "modelo": "Thermaltake Toughpower iRGB Plus 850W",
+        "marca": "Thermaltake",
+        "potencia": 850,
+        "certificacion": "80 Plus Platinum",
+        "precio": 190
+    },
+    {
+        "modelo": "Cooler Master MWE Gold 650 V2",
+        "marca": "Cooler Master",
+        "potencia": 650,
+        "certificacion": "80 Plus Gold",
+        "precio": 90
+    },
+    {
+        "modelo": "MSI MPG A850GF",
+        "marca": "MSI",
+        "potencia": 850,
+        "certificacion": "80 Plus Gold",
+        "precio": 130
+    },
+    {
+        "modelo": "Gigabyte P750GM",
+        "marca": "Gigabyte",
+        "potencia": 750,
+        "certificacion": "80 Plus Gold",
+        "precio": 100
+    },
+    {
+        "modelo": "be quiet! Dark Power Pro 12 1200W",
+        "marca": "be quiet!",
+        "potencia": 1200,
+        "certificacion": "80 Plus Titanium",
+        "precio": 400
+    },
+    {
+        "modelo": "ASUS ROG Thor 1200W",
+        "marca": "ASUS",
+        "potencia": 1200,
+        "certificacion": "80 Plus Platinum",
+        "precio": 350
+    }
+]

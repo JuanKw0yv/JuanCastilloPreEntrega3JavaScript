@@ -1,0 +1,128 @@
+[
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 2060",
+        "marca": "NVIDIA",
+        "precio": 349
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 2060 Super",
+        "marca": "NVIDIA",
+        "precio": 399
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 2070",
+        "marca": "NVIDIA",
+        "precio": 499
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 2070 Super",
+        "marca": "NVIDIA",
+        "precio": 599
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 2080",
+        "marca": "NVIDIA",
+        "precio": 699
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 2080 Super",
+        "marca": "NVIDIA",
+        "precio": 799
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 2080 Ti",
+        "marca": "NVIDIA",
+        "precio": 999
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 3060",
+        "marca": "NVIDIA",
+        "precio": 329
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 3060 Ti",
+        "marca": "NVIDIA",
+        "precio": 399
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 3070",
+        "marca": "NVIDIA",
+        "precio": 499
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 3070 Ti",
+        "marca": "NVIDIA",
+        "precio": 599
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 3080",
+        "marca": "NVIDIA",
+        "precio": 699
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 3080 Ti",
+        "marca": "NVIDIA",
+        "precio": 1199
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 3090",
+        "marca": "NVIDIA",
+        "precio": 1499
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 3090 Ti",
+        "marca": "NVIDIA",
+        "precio": 1999
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 4060",
+        "marca": "NVIDIA",
+        "precio": 299
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 4060 Ti",
+        "marca": "NVIDIA",
+        "precio": 399
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 4070",
+        "marca": "NVIDIA",
+        "precio": 599
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 4070 Ti",
+        "marca": "NVIDIA",
+        "precio": 799
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 4080",
+        "marca": "NVIDIA",
+        "precio": 1199
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RTX 4090",
+        "marca": "NVIDIA",
+        "precio": 1599
+    }
+]

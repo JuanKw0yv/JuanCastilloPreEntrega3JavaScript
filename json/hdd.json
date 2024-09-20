@@ -1,0 +1,154 @@
+[
+    {
+        "modelo": "WD Blue",
+        "marca": "Western Digital",
+        "capacidad": "1TB",
+        "rpm": 7200,
+        "tipo": "SATA",
+        "precio": 50
+    },
+    {
+        "modelo": "Seagate BarraCuda",
+        "marca": "Seagate",
+        "capacidad": "2TB",
+        "rpm": 7200,
+        "tipo": "SATA",
+        "precio": 70
+    },
+    {
+        "modelo": "Toshiba P300",
+        "marca": "Toshiba",
+        "capacidad": "2TB",
+        "rpm": 7200,
+        "tipo": "SATA",
+        "precio": 65
+    },
+    {
+        "modelo": "WD Black",
+        "marca": "Western Digital",
+        "capacidad": "4TB",
+        "rpm": 7200,
+        "tipo": "SATA",
+        "precio": 130
+    },
+    {
+        "modelo": "Seagate IronWolf",
+        "marca": "Seagate",
+        "capacidad": "4TB",
+        "rpm": 5900,
+        "tipo": "SATA",
+        "precio": 115
+    },
+    {
+        "modelo": "Toshiba X300",
+        "marca": "Toshiba",
+        "capacidad": "4TB",
+        "rpm": 7200,
+        "tipo": "SATA",
+        "precio": 110
+    },
+    {
+        "modelo": "Seagate Exos X16",
+        "marca": "Seagate",
+        "capacidad": "10TB",
+        "rpm": 7200,
+        "tipo": "SATA",
+        "precio": 320
+    },
+    {
+        "modelo": "WD Red Plus",
+        "marca": "Western Digital",
+        "capacidad": "8TB",
+        "rpm": 5400,
+        "tipo": "SATA",
+        "precio": 240
+    },
+    {
+        "modelo": "Toshiba N300",
+        "marca": "Toshiba",
+        "capacidad": "8TB",
+        "rpm": 7200,
+        "tipo": "SATA",
+        "precio": 230
+    },
+    {
+        "modelo": "Seagate BarraCuda Pro",
+        "marca": "Seagate",
+        "capacidad": "6TB",
+        "rpm": 7200,
+        "tipo": "SATA",
+        "precio": 180
+    },
+    {
+        "modelo": "WD Purple",
+        "marca": "Western Digital",
+        "capacidad": "6TB",
+        "rpm": 5400,
+        "tipo": "SATA",
+        "precio": 160
+    },
+    {
+        "modelo": "Seagate SkyHawk",
+        "marca": "Seagate",
+        "capacidad": "8TB",
+        "rpm": 7200,
+        "tipo": "SATA",
+        "precio": 250
+    },
+    {
+        "modelo": "Toshiba L200",
+        "marca": "Toshiba",
+        "capacidad": "1TB",
+        "rpm": 5400,
+        "tipo": "SATA",
+        "precio": 45
+    },
+    {
+        "modelo": "HGST Ultrastar",
+        "marca": "HGST",
+        "capacidad": "12TB",
+        "rpm": 7200,
+        "tipo": "SATA",
+        "precio": 400
+    },
+    {
+        "modelo": "Seagate IronWolf Pro",
+        "marca": "Seagate",
+        "capacidad": "12TB",
+        "rpm": 7200,
+        "tipo": "SATA",
+        "precio": 370
+    },
+    {
+        "modelo": "WD Gold",
+        "marca": "Western Digital",
+        "capacidad": "14TB",
+        "rpm": 7200,
+        "tipo": "SATA",
+        "precio": 500
+    },
+    {
+        "modelo": "Seagate BarraCuda",
+        "marca": "Seagate",
+        "capacidad": "1TB",
+        "rpm": 7200,
+        "tipo": "SATA",
+        "precio": 45
+    },
+    {
+        "modelo": "WD Red",
+        "marca": "Western Digital",
+        "capacidad": "4TB",
+        "rpm": 5400,
+        "tipo": "SATA",
+        "precio": 110
+    },
+    {
+        "modelo": "Toshiba MG Series",
+        "marca": "Toshiba",
+        "capacidad": "16TB",
+        "rpm": 7200,
+        "tipo": "SATA",
+        "precio": 600
+    }
+]

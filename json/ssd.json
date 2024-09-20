@@ -1,0 +1,164 @@
+[
+    {
+        "modelo": "Samsung 970 EVO Plus",
+        "marca": "Samsung",
+        "capacidad": "1TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 3500,
+        "escrituraSecuencial": 3300,
+        "precio": 130
+    },
+    {
+        "modelo": "WD Black SN850",
+        "marca": "Western Digital",
+        "capacidad": "1TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 7000,
+        "escrituraSecuencial": 5300,
+        "precio": 150
+    },
+    {
+        "modelo": "Crucial MX500",
+        "marca": "Crucial",
+        "capacidad": "1TB",
+        "tipo": "SATA",
+        "lecturaSecuencial": 560,
+        "escrituraSecuencial": 510,
+        "precio": 85
+    },
+    {
+        "modelo": "Samsung 980 Pro",
+        "marca": "Samsung",
+        "capacidad": "2TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 7000,
+        "escrituraSecuencial": 5000,
+        "precio": 220
+    },
+    {
+        "modelo": "Kingston KC2500",
+        "marca": "Kingston",
+        "capacidad": "1TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 3500,
+        "escrituraSecuencial": 2900,
+        "precio": 140
+    },
+    {
+        "modelo": "Sabrent Rocket 4 Plus",
+        "marca": "Sabrent",
+        "capacidad": "2TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 7100,
+        "escrituraSecuencial": 6600,
+        "precio": 250
+    },
+    {
+        "modelo": "WD Blue SN550",
+        "marca": "Western Digital",
+        "capacidad": "500GB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 2400,
+        "escrituraSecuencial": 1950,
+        "precio": 60
+    },
+    {
+        "modelo": "Crucial P5 Plus",
+        "marca": "Crucial",
+        "capacidad": "1TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 6600,
+        "escrituraSecuencial": 5000,
+        "precio": 150
+    },
+    {
+        "modelo": "ADATA XPG SX8200 Pro",
+        "marca": "ADATA",
+        "capacidad": "1TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 3500,
+        "escrituraSecuencial": 3000,
+        "precio": 120
+    },
+    {
+        "modelo": "Seagate FireCuda 520",
+        "marca": "Seagate",
+        "capacidad": "2TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 5000,
+        "escrituraSecuencial": 4850,
+        "precio": 210
+    },
+    {
+        "modelo": "Samsung 870 EVO",
+        "marca": "Samsung",
+        "capacidad": "2TB",
+        "tipo": "SATA",
+        "lecturaSecuencial": 560,
+        "escrituraSecuencial": 530,
+        "precio": 220
+    },
+    {
+        "modelo": "WD Black SN770",
+        "marca": "Western Digital",
+        "capacidad": "1TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 5150,
+        "escrituraSecuencial": 4900,
+        "precio": 130
+    },
+    {
+        "modelo": "Kingston A2000",
+        "marca": "Kingston",
+        "capacidad": "500GB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 2200,
+        "escrituraSecuencial": 2000,
+        "precio": 70
+    },
+    {
+        "modelo": "Sabrent Rocket Q",
+        "marca": "Sabrent",
+        "capacidad": "1TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 3200,
+        "escrituraSecuencial": 2900,
+        "precio": 110
+    },
+    {
+        "modelo": "Corsair MP600 PRO",
+        "marca": "Corsair",
+        "capacidad": "2TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 7000,
+        "escrituraSecuencial": 6800,
+        "precio": 240
+    },
+    {
+        "modelo": "Samsung 860 EVO",
+        "marca": "Samsung",
+        "capacidad": "1TB",
+        "tipo": "SATA",
+        "lecturaSecuencial": 550,
+        "escrituraSecuencial": 520,
+        "precio": 100
+    },
+    {
+        "modelo": "TeamGroup T-Force Cardea Zero Z440",
+        "marca": "TeamGroup",
+        "capacidad": "1TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 5000,
+        "escrituraSecuencial": 4400,
+        "precio": 140
+    },
+    {
+        "modelo": "Patriot Viper VP4300",
+        "marca": "Patriot",
+        "capacidad": "2TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 7400,
+        "escrituraSecuencial": 6800,
+        "precio": 270
+    }
+]
